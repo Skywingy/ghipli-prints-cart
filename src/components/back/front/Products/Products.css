@@ -1,0 +1,53 @@
+.products{
+    margin: 20px auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: 1px white solid;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+    padding: 1rem;
+    background: white;
+    gap: 2rem;
+}
+.addToCart {
+    font-size: 20px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    padding: 13px 50px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+}
+.addToCart::after {
+    content: "";
+    background-color: #ffe54c;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 7px;
+    left: 7px;
+    transition: 0.2s;
+}
+
+.addToCart:hover::after {
+    top: 0px;
+    left: 0px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2.5em;
+}
+.quote {
+    padding: 1rem 1.4rem 2rem 2.4rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1.3rem;
+    text-align: justify;
+    line-height: 1.4;
+    font-weight: 500;
+}
