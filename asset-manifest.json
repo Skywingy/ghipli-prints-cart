@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ghipli-prints-cart/static/css/main.a4581690.css",
-    "main.js": "/ghipli-prints-cart/static/js/main.4891a981.js",
+    "main.js": "/ghipli-prints-cart/static/js/main.ab04309f.js",
     "static/media/backg.jpeg": "/ghipli-prints-cart/static/media/backg.a02d35d289cef383fcda.jpeg",
     "static/media/only.jpeg": "/ghipli-prints-cart/static/media/only.0b97828d1870a1a8e05f.jpeg",
     "static/media/castle.jpeg": "/ghipli-prints-cart/static/media/castle.1593e8b4205e1be2d294.jpeg",
@@ -18,10 +18,10 @@
     "static/media/studio-ghibli-logo.svg": "/ghipli-prints-cart/static/media/studio-ghibli-logo.35cf807fb3f61304ff1f8383b446871e.svg",
     "index.html": "/ghipli-prints-cart/index.html",
     "main.a4581690.css.map": "/ghipli-prints-cart/static/css/main.a4581690.css.map",
-    "main.4891a981.js.map": "/ghipli-prints-cart/static/js/main.4891a981.js.map"
+    "main.ab04309f.js.map": "/ghipli-prints-cart/static/js/main.ab04309f.js.map"
   },
   "entrypoints": [
     "static/css/main.a4581690.css",
-    "static/js/main.4891a981.js"
+    "static/js/main.ab04309f.js"
   ]
 }
