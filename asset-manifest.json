@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Skywingy/ghipli-prints-cart/static/css/main.28a72f58.css",
-    "main.js": "/Skywingy/ghipli-prints-cart/static/js/main.9ba458d1.js",
-    "static/media/backg.jpeg": "/Skywingy/ghipli-prints-cart/static/media/backg.a02d35d289cef383fcda.jpeg",
-    "static/media/only.jpeg": "/Skywingy/ghipli-prints-cart/static/media/only.0b97828d1870a1a8e05f.jpeg",
-    "static/media/castle.jpeg": "/Skywingy/ghipli-prints-cart/static/media/castle.1593e8b4205e1be2d294.jpeg",
-    "static/media/howl.jpeg": "/Skywingy/ghipli-prints-cart/static/media/howl.523a68f2a73794fd03c4.jpeg",
-    "static/media/whisper.jpeg": "/Skywingy/ghipli-prints-cart/static/media/whisper.aa7f12df961f1e654f6e.jpeg",
-    "static/media/wind.jpeg": "/Skywingy/ghipli-prints-cart/static/media/wind.05c1bf7e1f4c79bb2cd0.jpeg",
-    "static/media/lib.jpeg": "/Skywingy/ghipli-prints-cart/static/media/lib.d07efdfc42463b4e70bc.jpeg",
-    "static/media/ponyo.jpeg": "/Skywingy/ghipli-prints-cart/static/media/ponyo.b79f4b4e22e16444985d.jpeg",
-    "static/media/wave.jpeg": "/Skywingy/ghipli-prints-cart/static/media/wave.542efaa25b5b88e84dad.jpeg",
-    "static/media/sho.jpeg": "/Skywingy/ghipli-prints-cart/static/media/sho.febd621039001ce9dbb3.jpeg",
-    "static/media/haku.jpeg": "/Skywingy/ghipli-prints-cart/static/media/haku.6989cc3908d8ec39204c.jpeg",
-    "static/media/delivery.jpeg": "/Skywingy/ghipli-prints-cart/static/media/delivery.99de226307834a281d0c.jpeg",
-    "static/media/cat.jpeg": "/Skywingy/ghipli-prints-cart/static/media/cat.3a08adc4d51eb54ce572.jpeg",
-    "static/media/studio-ghibli-logo.svg": "/Skywingy/ghipli-prints-cart/static/media/studio-ghibli-logo.35cf807fb3f61304ff1f8383b446871e.svg",
-    "index.html": "/Skywingy/ghipli-prints-cart/index.html",
-    "main.28a72f58.css.map": "/Skywingy/ghipli-prints-cart/static/css/main.28a72f58.css.map",
-    "main.9ba458d1.js.map": "/Skywingy/ghipli-prints-cart/static/js/main.9ba458d1.js.map"
+    "main.css": "/ghipli-prints-cart/static/css/main.a4581690.css",
+    "main.js": "/ghipli-prints-cart/static/js/main.4891a981.js",
+    "static/media/backg.jpeg": "/ghipli-prints-cart/static/media/backg.a02d35d289cef383fcda.jpeg",
+    "static/media/only.jpeg": "/ghipli-prints-cart/static/media/only.0b97828d1870a1a8e05f.jpeg",
+    "static/media/castle.jpeg": "/ghipli-prints-cart/static/media/castle.1593e8b4205e1be2d294.jpeg",
+    "static/media/howl.jpeg": "/ghipli-prints-cart/static/media/howl.523a68f2a73794fd03c4.jpeg",
+    "static/media/whisper.jpeg": "/ghipli-prints-cart/static/media/whisper.aa7f12df961f1e654f6e.jpeg",
+    "static/media/wind.jpeg": "/ghipli-prints-cart/static/media/wind.05c1bf7e1f4c79bb2cd0.jpeg",
+    "static/media/lib.jpeg": "/ghipli-prints-cart/static/media/lib.d07efdfc42463b4e70bc.jpeg",
+    "static/media/ponyo.jpeg": "/ghipli-prints-cart/static/media/ponyo.b79f4b4e22e16444985d.jpeg",
+    "static/media/wave.jpeg": "/ghipli-prints-cart/static/media/wave.542efaa25b5b88e84dad.jpeg",
+    "static/media/sho.jpeg": "/ghipli-prints-cart/static/media/sho.febd621039001ce9dbb3.jpeg",
+    "static/media/haku.jpeg": "/ghipli-prints-cart/static/media/haku.6989cc3908d8ec39204c.jpeg",
+    "static/media/delivery.jpeg": "/ghipli-prints-cart/static/media/delivery.99de226307834a281d0c.jpeg",
+    "static/media/cat.jpeg": "/ghipli-prints-cart/static/media/cat.3a08adc4d51eb54ce572.jpeg",
+    "static/media/studio-ghibli-logo.svg": "/ghipli-prints-cart/static/media/studio-ghibli-logo.35cf807fb3f61304ff1f8383b446871e.svg",
+    "index.html": "/ghipli-prints-cart/index.html",
+    "main.a4581690.css.map": "/ghipli-prints-cart/static/css/main.a4581690.css.map",
+    "main.4891a981.js.map": "/ghipli-prints-cart/static/js/main.4891a981.js.map"
   },
   "entrypoints": [
-    "static/css/main.28a72f58.css",
-    "static/js/main.9ba458d1.js"
+    "static/css/main.a4581690.css",
+    "static/js/main.4891a981.js"
   ]
 }
