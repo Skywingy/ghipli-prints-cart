@@ -8,23 +8,28 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: darkcyan;
+    background-image: url('/src/assets/backg.jpeg');
+    background-size: cover;
 }
 .titleH{
     font-family: 'Fira Sans', sans-serif;
     text-transform: uppercase;
     font-size: 3rem;
-    padding-bottom: 0.5rem;
     font-weight: bold;
     color: snow; 
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    margin: 0;
 }
 
 .quoteH{
     font-family: 'Fira Sans', sans-serif;
     text-transform: uppercase;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     padding-bottom: 9rem;
     color: white;
+    letter-spacing: 3px;
+    font-weight: 200;
 }
 .expand{
     font-family: 'Fira Sans', sans-serif;
@@ -32,6 +37,7 @@
     font-weight:600;
     font-size: 1.5rem;
     text-decoration: inherit;
+    letter-spacing: 3px;
 }
 .expand:focus, .expand:hover, .expand:visited, .expand:link, .expand:active {
         text-decoration: inherit;
@@ -66,4 +72,8 @@
     letter-spacing: 1em;
     opacity: 0;
   }
+}
+
+.emptyLogo{
+  padding-top: 5rem;
 }

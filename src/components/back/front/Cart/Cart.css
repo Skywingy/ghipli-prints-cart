@@ -1,0 +1,125 @@
+.cart-header{
+    padding-bottom: 5rem;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.clear-cart{
+    padding-bottom: 3rem;
+    text-transform: uppercase;
+}
+
+.cart-list-image{
+    width: 140px;
+}
+
+.cart-list-name{
+    text-transform: uppercase;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.item{
+    display: flex;
+    flex-direction: column;
+}
+.cart-list{
+    display: flex;
+    gap: 3rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-bottom: 1px gray solid;
+    padding-right: 8rem;
+    width: 35%;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    padding-bottom: 6rem;
+    padding-left: 0.8rem;
+    font-weight: 600;
+}
+
+.down{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: center;
+}
+.cart-list-funct{
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    padding-left: 2.6rem;
+}
+
+.Total{
+    padding-top: 2rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 25px;
+    letter-spacing: 2.5px;
+    word-spacing: 30px;
+}
+
+.empty{
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 30px;
+}
+.cart-items-add{
+    width: 25px;
+    height: 25px;
+    border-radius: 20px;
+}
+
+.cart-items-remove{
+    width: 25px;
+    height: 25px;
+    border-radius: 20px;
+}
+
+.quantity{
+    border: 2px black solid;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.cart-list-price{
+    font-size: 20px;
+}
+
+.clear-cart{
+    padding-top: 3rem;
+    background-color: ;
+}
+
+.clear-button{
+background-color: black;
+color: snow;
+text-transform: uppercase;
+cursor: pointer;
+padding: 0.5rem 2rem;
+font-weight: 600;
+font-size: 15px;
+}
+
+.item{
+    display: flex;
+    align-items: center;
+}
+
+.Cart{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+    width: 50vw;
+    min-height: 75vh;
+    background-color: snow;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}

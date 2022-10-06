@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import words from '../../../../assets/words.png';
+import words from '../../../../assets/studio-ghibli-logo.svg';
 import './Header.css';
 import styled from 'styled-components';
 
@@ -18,8 +18,8 @@ export default function Header({cartItems}) {
                     <StyleLink to='/product' className='slide'>Product</StyleLink>
                 </li>
                 <li>
-                    <StyleLink to='/cart' className='slide'>Cart</StyleLink>
-                    <span className='cart-length'>{cartItems.length === 0 ? '' : cartItems.length}</span>
+                    <StyleLink to='/cart' className='slide'>Cart (<span className='cart-length'>{cartItems.length === 0 ? '' : cartItems.length}</span>)</StyleLink>
+                    
                 </li>
                 <li>
                     <StyleLink to='/contact' className='slide'>Contact</StyleLink>

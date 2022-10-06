@@ -49,7 +49,7 @@ const data = {
             genre: 'Animated Fantasy',
             quote: 'We can fly with our spirit',
             image: delivery,
-            price: '7,'
+            price: '7'
 
         },
         {  
